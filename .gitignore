@@ -1,6 +1,6 @@
-.terraform/providers/registry.opentofu.org/hashicorp/aws/5.100.0/windows_amd64.lock
-.terraform.lock.hcl
-.terraform/providers/registry.opentofu.org/hashicorp/aws/5.100.0/windows_amd64/CHANGELOG.md
-.terraform/providers/registry.opentofu.org/hashicorp/aws/5.100.0/windows_amd64/LICENSE
-.terraform/providers/registry.opentofu.org/hashicorp/aws/5.100.0/windows_amd64/README.md
-.terraform/providers/registry.opentofu.org/hashicorp/aws/5.100.0/windows_amd64/terraform-provider-aws.exe
+.terraform/*
+.terraform/providers/*
+*.key
+*.hcl
+*.pem
+*.crt
