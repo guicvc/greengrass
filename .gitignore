@@ -4,3 +4,5 @@
 *.hcl
 *.pem
 *.crt
+terraform.tfstate
+terraform.tfstate.backup
